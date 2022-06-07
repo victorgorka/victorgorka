@@ -1,4 +1,4 @@
-Currently student at 42Málaga, programmming school financed by private/public institutions. Learning C by now. Interested in Cybersecurity, web development, AI, database..
+Currently student at 42Málaga, programmming school financed by private/public institutions. Learning C by now. Interested in Cybersecurity, web development, AI, database, networks..
 
 <!---
 victorgorka/victorgorka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
