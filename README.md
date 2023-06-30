@@ -1,4 +1,4 @@
-Currently student at 42Málaga, programmming school financed by private/public institutions. Learning C. Interested in Cybersecurity, AI,..
+Currently student at 42Málaga, programmming school financed by private/public institutions. Learning C/C++.
 
 <!---
 victorgorka/victorgorka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
