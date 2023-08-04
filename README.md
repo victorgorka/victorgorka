@@ -1,6 +1,1 @@
-Currently student at 42Málaga, programmming school financed by private/public institutions. Learning C/C++.
-
-<!---
-victorgorka/victorgorka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Student of the programming school 42 Málaga Fundación Telefónica since April 2022. An innovative school without teachers, which makes self-learning and the use of "peer-to-peer" among students essential, promoting the development of "soft skills" as collaboration, expression, research, analysis and rigor, among other skills. As language for this learning we use C/C++.
